@@ -138,3 +138,4 @@ void pembayaran(int beli)
 }
 
 // ITS ME DIO
+// RO-DO RO-RA-DA-
