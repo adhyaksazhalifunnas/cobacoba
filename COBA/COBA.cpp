@@ -136,3 +136,5 @@ void pembayaran(int beli)
         cout << "" << endl;
     }
 }
+
+// ITS ME DIO
